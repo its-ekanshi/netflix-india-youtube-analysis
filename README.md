@@ -75,18 +75,9 @@ To uncover key insights that help Netflix India optimize its YouTube strategy by
 
 ---
 
-
----
-
-
-**Ekanshi Saxena**  
-🎯 Data Enthusiast 
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)
 - 💻 [GitHub](https://github.com/its-ekanshi)
 
 ---
 
 > *“YouTube isn’t just content — it’s data-driven entertainment strategy.”*
-
-
